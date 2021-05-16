@@ -1,0 +1,16 @@
+build/
+build-prod/
+.idea/
+.gradle/
+gradle/
+node_modules/
+dist/
+.git
+
+./fcode-storybook/node_modules/
+./fcode-storybook/build/
+./fcode-storybook/coverage/
+./fcode-storybook/.git/
+
+./fcode-storybook-backend/node_modules
+./fcode-storybook-backend/.git/
