@@ -1,2 +1,3 @@
 ./fcode-storybook
 ./fcode-storybook-backend
+.env
